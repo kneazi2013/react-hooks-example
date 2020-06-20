@@ -1,4 +1,2 @@
-import App from "./app-view";
-export type { IAppProps, IAppState } from "./app-models";
-
+import App from "./app";
 export default App;
